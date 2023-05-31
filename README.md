@@ -1,6 +1,7 @@
 # presentations
 Ela's Presentations are mostly technological playgrounds presented through static content using Vue boilerplates.  
-In this branch I am exploring the main functionalities of Pinia stores.
+In this branch I am exploring the main functionalities of Pinia stores.  
+Official website: https://pinia.vuejs.org/
 
 # Init Vue APP
 ```sh
