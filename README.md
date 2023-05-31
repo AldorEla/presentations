@@ -1,5 +1,6 @@
 # presentations
-Ela's Presentations are mostly technological playgrounds presented through static content using Vue boilerplates.
+Ela's Presentations are mostly technological playgrounds presented through static content using Vue boilerplates.  
+In this branch I am exploring the main functionalities of Pinia stores.
 
 # Init Vue APP
 ```sh
